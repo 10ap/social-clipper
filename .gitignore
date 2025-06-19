@@ -1,4 +1,6 @@
 # .gitignore
+ai-clip-maker/venv/
+*.dylib
 venv/
 __pycache__/
 *.pyc
@@ -6,3 +8,4 @@ __pycache__/
 *.pyd
 .env
 .DS_Store
+venv/
